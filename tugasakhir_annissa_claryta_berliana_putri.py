@@ -18,7 +18,8 @@ ANNISSA CLARYTA BERLIANA PUTRI (ML-58) [M009D4KX2794] MACHINE LEARNING PATH
 5. Pada bulan apakah terjadi peningkatan frekuensi penjualan tertingginya?
 6. Pada hari apakah frekuensi sering terjadinya pembelian pada pembeli untuk melakukan transaksi?
 """
-
+import streamlit as st
+import streamlit.components.v1 as stc
 import os
 import numpy as np
 import pandas as pd
