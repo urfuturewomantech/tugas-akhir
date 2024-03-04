@@ -21,13 +21,7 @@ Original file is located at
 #     ANNISSA CLARYTA BERLIANA PUTRI (ML-58) [M009D4KX2794] MACHINE LEARNING PATH
 #     """
 # )
-# st.markdown(
-#         "<div style='display: flex; justify-content: center;'>"
-#         "<img src=/barchart.png "
-#         "width='200' style='border-radius: 50%;'>"
-#         "</div>",
-#         unsafe_allow_html=True
-#     )
+# 
 #
 
 
