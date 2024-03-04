@@ -30,8 +30,4 @@ Original file is located at
 #     )
 #
 
-pip install pyngrok
 
-from pyngrok import ngrok
-
-!streamlit run dashboard.py & npx localtunnel --port 8501
